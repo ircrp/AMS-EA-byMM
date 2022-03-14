@@ -1,5 +1,5 @@
 //+------------------------------------------------------------------+
-//|                                Autonomiczny moduł stochastyczny  |
+//|                                Autonomiczny Moduł Stochastyczny  |
 //|                                Copyright 2022, Marcin Zubrzycki  |
 //|                                                      Mastermind  |
 //+------------------------------------------------------------------+
